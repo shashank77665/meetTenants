@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294339597264",
+    "project_id": "meettenants",
+    "storage_bucket": "meettenants.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294339597264:android:ca2b92365c7131d4c15fd5",
+        "android_client_info": {
+          "package_name": "com.example.meettenants"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx1GBt7nrLRIL5dxgijwrOnH6w0ZLx7U0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
